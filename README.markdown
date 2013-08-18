@@ -1,10 +1,8 @@
 A Bookmarklet to Extend Blogger's Rich Text Editor
 ==================================================
 
-- Author: Ats Oka
-- mailto: oka.ats@gmail.com
+-----------------------------
 
---------------------------------------------------
 ### Abstract
 
 This is a bookmarklet to extend Blogger's rich text editor.
@@ -116,6 +114,12 @@ github
 https://github.com/ats4u/blogger-editor-extension
 
 
+--------------------------------------------------
+### Author
+Ats Oka
+http://ats.oka.nu/
+http://gangdun.facebook.com/
+mailto: oka.ats@gmail.com
 
 --------------------------------------------------
 ### Licence
