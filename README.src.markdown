@@ -10,9 +10,9 @@ A Bookmarklet to Extend Blogger's Rich Text Editor
 This is a bookmarklet to extend Blogger's rich text editor.
 
 
-This bookmarklet effectively add some functions to the Blogger's default editor as below :
+This bookmarklet effectively adds some functions to the Blogger's default editor as below:
 
-- Add some functions to manipulate HTML without entering HTML editor mode :
+- Add some functions to manipulate HTML without entering HTML editor mode.
     - Show HTML code of current selection and edit it.
     - Insert specific HTML code .
     - Apply arbitrary block tag to the selection.
@@ -90,6 +90,23 @@ Switch displaying Rich Editor and HTML editor .
 #### `CTRL+R` `F5` `CTRL+F5`
 Switch displaying Rich Editor and HTML editor .
 
+
+--------------------------------------------------
+### How to Compile
+
+Run `make.sh` to generate all necessary file.
+
+#### Generate the Bookmarklet 
+- Run `makeBookmarklet.sh` to generate `blogger-editor-ext-bookmarklet.txt`
+  that consists the main bookmarklet.
+- The bash script program `makeBookmarklet.sh` referes the only file `blogger-editor-ext.js`.
+
+
+#### Generate the README
+- Run `makeREADME.sh` to generate `README.markdown` which you are reading right now.
+- The bash script program `makeREADME.sh` referes the only file `README.src.markdown`
+
+
 --------------------------------------------------
 ### Support
 
@@ -98,42 +115,12 @@ https://github.com/ats4u/blogger-editor-extension
 
 
 
-
 --------------------------------------------------
 ### Licence
-
-Public Domain or BSD licence
-
+Public Domain 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
+--------------------------------------------------
+Ats Oka 
 

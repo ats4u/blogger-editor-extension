@@ -1,4 +1,5 @@
 #!/bin/bash
 
-cat README.markdown.src | sed "s/__SRC__/$(cat blogger-editor-ext-bookmarklet.txt)/g" > README.markdown
-echo "done."
+cat README.src.markdown | sed "s/__SRC__/$(cat blogger-editor-ext-bookmarklet.txt)/g" > README.markdown
+
+echo "Generatin README.markdown done."
