@@ -28,7 +28,7 @@ This bookmarklet effectively adds some functions to the Blogger's default editor
 The icon below is the bookmarklet.
 
 <center style="margin:30px 00px;">
-<a href="__src__"><img src="http://2.bp.blogspot.com/-zMNlXDR9uco/Ug8Ko-UBdKI/AAAAAAAAElU/pJd6kpO8k_A/s1600/blogger-editor-extension.png"/></a>
+<a href="__SRC__"><img src="http://2.bp.blogspot.com/-zMNlXDR9uco/Ug8Ko-UBdKI/AAAAAAAAElU/pJd6kpO8k_A/s1600/blogger-editor-extension.png"/></a>
 </center>
  
 Right click this icon and save its link to your bookmark to accomplish our goal.
