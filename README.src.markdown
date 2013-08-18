@@ -25,11 +25,13 @@ This bookmarklet effectively adds some functions to the Blogger's default editor
 --------------------------------------------------
 ### The Bookmarklet
 
-The icon below is the bookmarklet.
+The bookmarklet is here :
 
-<center style="margin:30px 00px;">
+https://raw.github.com/ats4u/blogger-editor-extension/master/blogger-editor-ext-bookmarklet.html
+
+<div style="margin:30px 00px;">
 <a href="__SRC__"><img src="http://2.bp.blogspot.com/-zMNlXDR9uco/Ug8Ko-UBdKI/AAAAAAAAElU/pJd6kpO8k_A/s1600/blogger-editor-extension.png"/></a>
-</center>
+</div>
  
 Right click this icon and save its link to your bookmark to accomplish our goal.
 

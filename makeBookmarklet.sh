@@ -5,4 +5,4 @@ cat blogger-editor-ext.js | jsmin  | tr -t '\n' ';' | xxd -plain | tr -d '\n'  |
 cat tmp01.txt tmp02.txt > blogger-editor-ext-bookmarklet.txt
 rm tmp01.txt tmp02.txt
 
-echo "Generating bookmarklet done."
+echo "Generating blogger-editor-ext-bookmarklet.txt done."
